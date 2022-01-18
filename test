@@ -6,7 +6,7 @@ dq  jdl kjdq
 android:layout_width="match_parent"                android:layout_height="wrap_content"                android:orientation="vertical">                <TextView                    android:layout_width="match_parent"                    android:layout_height="wrap_content"                    android:textSize="30sp"                    android:textColor="@color/sunflower_black"                    android:text="333333333333333333333333333333333"/>                <TextView                    android:layout_width="match_parent"                    android:layout_height="wrap_content"                    android:textSize="30sp"                    android:textColor="@color/sunflower_black"                    android:text="333333333333333333333333333333333"/>            </LinearLayout>        </ScrollView>        <TextView            android:layout_width="match_parent"            android:layout_height="wrap_content"            android:textSize="30sp"            android:textColor="@color/sunflower_black"            android:text="44444444444444444444444444444"/>
 
 
-
+<TextView            android:layout_width="match_parent"            android:layout_height="wrap_content"            android:textSize="30sp"            android:textColor="@color/sunflower_black"            android:text="55555555555555555555555555555"/>    </LinearLayout>    <TextView        android:layout_width="wrap_content"        android:layout_gravity="end"        android:layout_height="wrap_content"        android:textSize="30sp"        android:layout_marginBottom="20dp"        android:textColor="@color/sunflower_black"        android:drawableEnd="@mipmap/ic_launcher"        android:text="关闭"/></LinearLayout>
 
 
 
