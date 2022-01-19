@@ -18,3 +18,9 @@ android:layout_width="match_parent"                android:layout_height="wrap_c
 
 Some problems were found with the configuration of task ':app:getDependencies' (type 'DependencyTask').
   - Type 'com.google.android.gms.oss.licenses.plugin.DependencyTask' field 'configurations' without corresponding getter has been annotated with @Input.
+
+
+
+
+
+https://developers.google.com/android/guides/opensource
